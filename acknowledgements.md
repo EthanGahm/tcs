@@ -26,6 +26,7 @@ If you make a pull request, please also add your name here in the alphabetical o
 * Zaymon Foulds-Cook
 * William Fu
 * Kent Furuie
+* Ethan Gahm
 * Piotr Galuszka
 * Carolyn Ge
 * Mark Goldstein
